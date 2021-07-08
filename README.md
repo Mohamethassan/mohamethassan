@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Mohamed from somalia, and I do content on design and development. I really enjoy learning languages and frameworks like React, as well as work in wordpress.
+You can check out my twitter at https://twitter.com/muhamedhassan_A Or https://www.linkedin.com/in/mohamethassan/
+### Hi there 👋, Mohamed Hassan Abdullahi
+#### Design And development
+![Design And development](https://media-exp3.licdn.com/dms/image/C4D16AQHiB3y4u9pNXg/profile-displaybackgroundimage-shrink_200_800/0/1625692308094?e=1631145600&v=beta&t=8PTLiwgzuyxwsBsygD38AJEVJX12gy3Uekg4ad3meH8)
 
-<!--
-**Mohamethassan/mohamethassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed from somalia, and I do content on design and development. I really enjoy learning languages and frameworks like React, as well as work in wordpress.
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamethassan)](https://github.com/anuraghazra/github-readme-stats)
